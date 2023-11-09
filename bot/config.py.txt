@@ -1,0 +1,7 @@
+# [bot_token]
+TOKEN = "Put here your bot TOKEN"
+
+# [Author]
+YOUR_NAME = "Put here your name"
+YOUR_MESSENGER = "Put here your messenger"
+MESSENGER_LINK = "Put here your link to messenger"
